@@ -1,0 +1,2 @@
+# Socket-Programming-Project
+The object of this project is to implement a model computational offloading where a single client issues three parameters(Link ID, PacketSize, and Signal Power) to the AWS server and expects the reply for the end-to-end delay of the designated link. The time consumed during the process will be calculated based on the Shannon's channel capacity formula and the given parameters.  
