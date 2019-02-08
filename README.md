@@ -18,3 +18,4 @@ c. The format of all the messages exchanged.The message inputted by the user are
 d. After testing many times, the programs is so far so good. However, there may be some errors and failures that I have not found yet. What is worth to mention is that the backend servers are seem kept still even if a new round test has begun. However, this is just because the interface showing on screen between different round are totally same when correct inputs were entered, only some numbers are different such as the sentence: <0> / <1> matches found.  When the user input wrong numbers (negative values for size and link number), the client will give prompt says that it should be in the right format.
 
 e. In this project, I referenced the Socket Tutorial by Robert Ingalls. 
+f. All rights are reserved for this project, please don't copy the code without permission.
